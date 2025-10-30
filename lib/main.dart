@@ -68,7 +68,7 @@ class _GreetingPageState extends State<GreetingPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text('Personal Greeting App'),
+        title: const Text('AI Generated Personal Greeting App'),
         centerTitle: true,
       ),
       body: Center(
@@ -80,7 +80,7 @@ class _GreetingPageState extends State<GreetingPage> {
               const Icon(
                 Icons.waving_hand,
                 size: 80,
-                color: Colors.deepPurple,
+                color: Color.fromARGB(255, 35, 195, 166),
               ),
               const SizedBox(height: 30),
               const Text(
@@ -150,7 +150,7 @@ class _GreetingPageState extends State<GreetingPage> {
                     style: const TextStyle(
                       fontSize: 22,
                       fontWeight: FontWeight.w500,
-                      color: Colors.deepPurple,
+                      color: Color.fromARGB(255, 58, 183, 177),
                     ),
                     textAlign: TextAlign.center,
                   ),
