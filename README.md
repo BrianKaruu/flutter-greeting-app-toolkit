@@ -24,8 +24,14 @@ This project is a **Personal Greeting App** that:
 
 ## 🖼️ Screenshots
 
-*App displays a clean interface with text input, buttons, and personalized greeting messages*
+### Initial Screen
+![Initial Screen](screenshots/Screenshot%202025-10-30%20170738.png)
 
+### User Input
+![User Input](screenshots/Screenshot%202025-10-30%20170755.png)
+
+### Greeting Display
+![Greeting Display](screenshots/Screenshot%202025-10-30%20170806.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
